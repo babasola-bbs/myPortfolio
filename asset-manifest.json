@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a2205cc4.css",
-    "main.js": "/static/js/main.5dbf9628.js",
+    "main.js": "/static/js/main.d1aeecc1.js",
     "static/media/chatApp2.png": "/static/media/chatApp2.458a29babbc831a9b123.png",
     "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/chatApp4.png": "/static/media/chatApp4.e407094029c47c9db889.png",
@@ -11,10 +11,10 @@
     "static/media/me-fearless.png": "/static/media/me-fearless.7a00320f882cee8aaf74.png",
     "index.html": "/index.html",
     "main.a2205cc4.css.map": "/static/css/main.a2205cc4.css.map",
-    "main.5dbf9628.js.map": "/static/js/main.5dbf9628.js.map"
+    "main.d1aeecc1.js.map": "/static/js/main.d1aeecc1.js.map"
   },
   "entrypoints": [
     "static/css/main.a2205cc4.css",
-    "static/js/main.5dbf9628.js"
+    "static/js/main.d1aeecc1.js"
   ]
 }
